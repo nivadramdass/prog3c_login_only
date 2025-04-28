@@ -16,6 +16,7 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".SignUpActivity" />
         <activity android:name=".RegisterValidActivity" />
+        <activity android:name=".NextActivity" />
 
         <activity
             android:name=".MainActivity"
